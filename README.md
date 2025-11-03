@@ -756,3 +756,15 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 
 1. **Cleanup AWS EC2 Instances:**
     - Terminate AWS EC2 instances that are no longer needed.
+  
+   <img width="1440" height="807" alt="image" src="https://github.com/user-attachments/assets/d239d2e7-a3e8-43b1-bf07-e79020ca9a74" />
+
+   <img width="1440" height="807" alt="image" src="https://github.com/user-attachments/assets/0c31831b-f967-424d-afb2-7e59d3ebef31" />
+
+  <img width="1440" height="807" alt="image" src="https://github.com/user-attachments/assets/b4827c38-4064-43d9-b803-60f610aafbed" />
+
+ <img width="1440" height="807" alt="image" src="https://github.com/user-attachments/assets/7cd1f881-577a-4d34-be52-95eeff72cf5d" />
+
+  <img width="1440" height="807" alt="image" src="https://github.com/user-attachments/assets/6e81dcda-39a8-4c82-ae02-44cf117ffad2" />
+
+  <img width="1440" height="807" alt="image" src="https://github.com/user-attachments/assets/fba64ce5-b8d3-43db-b0b9-deb32aec66b2" />
